@@ -1,0 +1,45 @@
+{
+	"buyer_PO": {
+		"PO_Number": "181253",
+		"supplierEmailAddress": "cit.test02@mailinator.com",
+		"supplierName": "Cit_Test02",
+		"buyerEmailAddress": "cit.testbuyer03@mailinator.com",
+		"companyName": "B6 Entertainments Ltd",
+		"password": "Test@123"
+	},
+	"supplier_PO": {
+		"PO_Number":"PO-1008",
+		"fundingRequestType":"ExistingRequest",
+		"supplierEmailAddress":"supplier1201@congruentteam797719.testinator.com",
+		"firstSupplierEmail":"cit.test03@mailinator.com",
+		"secondSupplierEmail":"cit.test04@mailinator.com",
+		"customerName":"AB08 Entertainment Inc",
+		"fundermailAddress":"funder1201@congruentteam797719.testinator.com",
+		"supplierName":"Cit_Test04",
+		"password1":"Test@123",
+		"password":"Password@123",
+		"buyerEmailAddress":"cit.testbuyer02@mailinator.com"
+	},
+	"supplyChain_Buyer": {
+		"supplierEmailID": "cit.test0011@mailinator.com",
+		"companyName": "A12 Entertainments Ltd",
+		"Invoice_Number": "CIT123-12"
+	},
+	"invoice_Supplier": {
+		"customerName": "CIT User11",
+		"invoiceNumber": "CIT12345-11"
+	},
+	"supplier-portal": {
+		"supplierEmailAddress": "cit.test02@mailinator.com",
+		"supplierEmailAddress1": "supplieruser01@congruentteam797719.testinator.com",
+		"password1": "Test@123",
+		"password": "Password@123"
+	},
+	"funder-portal": {
+		"fundermailAddress": "funder1201@congruentteam797719.testinator.com",
+		"fundermailAddress1": "funderuser01@congruentteam797719.testinator.com",
+		"funderName": "Cit_TestFunder01",
+		"password1": "Test@123",
+		"password": "Password@123"
+	}
+}
